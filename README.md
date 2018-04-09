@@ -1,4 +1,4 @@
-# Trueet - Developed at Globo Editors Lab 2018
+# Trueet - Winner of the Globo Editors Lab 2018
 
 ![alt text](http://infograficos-estaticos.s3.amazonaws.com/assets-hackathon-globo/banner.jpg)
 
@@ -21,18 +21,18 @@ The bot that scans the user's Twitter timeline was built on Node.js, allowing th
 
 To select publications on the user's timeline, we've created a phrase comparison algorithm that can grow and join tagging and artificial intelligence techniques (IBM Watson and TensorFlow).
 
-- Implementation, technological resume:
+Implementation, technological resume:
 
-Programming language: JavaScript
-Development Environment: Node.js
-App Technology: Google PWA (Progressive Web Apps).
-IBM Watson (Natural language) and TensorFlow (Text classifier) ​​are future implementations
+- Programming language: JavaScript
+- Development Environment: Node.js
+- App Technology: Google PWA (Progressive Web Apps).
+- IBM Watson (Natural language) and TensorFlow (Text classifier) ​​are future implementations
  
 ## Demo
 - App [click here](https://marvelapp.com/44cd58g/screen/40871628), when it load, click in preview
 
 ## Presentation
-- [Click to check our presentation](presentation)
+- [Click to check our presentation](https://youtu.be/TCQlNxaq-Hc)
 
 ## How to run our bot
 - Get into the folder TrueetBotScan, [here](TrueetBotScan)
@@ -48,10 +48,16 @@ $ node bot.js
  
 ## License
 
-Copyright 2018
+Copyright 2018 Luíz Guilherme Julião, Mateus Paulino da Silva Santos, Vinicius Ribeiro Machado
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
