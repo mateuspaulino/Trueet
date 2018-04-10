@@ -48,7 +48,7 @@ $ node bot.js
  
 ## License
 
-Copyright 2018 Luíz Guilherme Julião, Mateus Paulino da Silva Santos, Vinicius Ribeiro Machado
+Copyright 2018 Luís Guilherme Julião, Mateus Paulino da Silva Santos, Vinicius Ribeiro Machado
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
